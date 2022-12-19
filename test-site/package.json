@@ -1,0 +1,14 @@
+{
+  "name": "Web-Server",
+  "version": "1.0.0",
+  "description": "Personal Website project.",
+  "scripts": {
+    "lite": "lite-server --port 10001",
+    "start": "npm run lite"
+  },
+  "author": "Anthony Madrazo",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^1.3.1"
+  }
+}

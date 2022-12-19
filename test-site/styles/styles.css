@@ -1,0 +1,41 @@
+html{
+    font-size: 12px; /*The base font size is now 10px */
+    font-family: "Open Sans", sans-serif;
+}
+
+h1{
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 3px 3px 1px gray;
+
+}
+
+h2{
+    margin: 0;
+    padding: 20px 0;
+    font-size: 48px;
+    text-align: center;
+
+}
+
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body{
+    
+    margin: 0 auto;
+    background-color: bisque;
+    padding: 0;
+
+}
+
+img{
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+}
